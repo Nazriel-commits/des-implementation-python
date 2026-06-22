@@ -1,6 +1,5 @@
 ###########################################################################
 #DES.py - Data Encryption Standard Implementation
-#ISEC2000 - Assignment 1, Part 2
 #
 #Overview:
 #  This program implements the full DES algorithm for encrypting and decrypting files. 
@@ -13,7 +12,7 @@
 #  - Decrypts hex ciphertext back to original plaintext
 #  - Handles all keyboard characters (letters, numbers, symbols)
 #
-#Author: Nazriel Al-Hafidz | 21495959
+#Author: Nazriel Al-Hafidz
 ###########################################################################
 
 import sys
