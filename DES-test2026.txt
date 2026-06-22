@@ -1,0 +1,60 @@
+*************** ATM TRANSACTION LOG ***************
+
+ATM ID: ATM-2041
+LOCATION: Pilbara
+DATE: 2026-03-30
+TIME: 23:59:00
+
+Welcome to SmartBank ATM!
+Please insert your card and follow the instructions.
+
+---------------------------------------------------
+
+TRANSACTION 1
+Account Number: 4589217632
+Customer Name: Alex Chen
+Transaction Type: WITHDRAWAL
+Amount: $200.00
+Message: "Coffee for the whole lab!"
+
+Status: SUCCESS
+
+---------------------------------------------------
+
+TRANSACTION 2
+Account Number: 6732849150
+Customer Name: Sam Patel
+Transaction Type: BALANCE INQUIRY
+Message: "Just checking if I'm still broke..."
+
+Status: SUCCESS
+
+---------------------------------------------------
+
+TRANSACTION 3
+Account Number: 8127394506
+Customer Name: Maria Lopez
+Transaction Type: DEPOSIT
+Amount: $500.00
+Message: "Finally paid for my group project dinner!"
+
+Status: SUCCESS
+
+---------------------------------------------------
+
+TRANSACTION 4
+Account Number: 9901273645
+Customer Name: Chayan Mondal
+Transaction Type: WITHDRAWAL
+Amount: $1000.00
+Message: "Trying to buy a new GPU!"
+
+Status: FAILED - INSUFFICIENT FUNDS :(
+
+---------------------------------------------------
+
+SYSTEM MESSAGE:
+Remember: Never share your PIN with anyone.
+Even your best friend. Even your lecturer.
+
+*************** END OF ATM LOG ***************
